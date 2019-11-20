@@ -28,6 +28,8 @@ Kinderen helpen bij het verwerken van een dood.
 	
 ## Vue extention op google chrome
 
+Super handige tool voor het begrijpen van je webapp.
+
 ## Feedback
 
 Heel erg interessant gastcollege. De tips en tricks die we te horen kregen zullen ons zeker helpen bij het afhandelen van projecten in de toekomst. 
